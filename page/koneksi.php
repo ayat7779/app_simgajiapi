@@ -1,8 +1,8 @@
 <?php
-define('HOST','203.130.206.114:3000');
-define('USER','taspen');
-define('PASS','taspen');
-define('DB1', 'riau1');
+define('HOST','xxxx.xxxx.xxxx.xxxx:xxxxx');
+define('USER','xxxxxx');
+define('PASS','xxxxxx');
+define('DB1', 'xxxxxx');
 
 // Buat Koneksinya
 $db1 = new mysqli(HOST, USER, PASS, DB1);
